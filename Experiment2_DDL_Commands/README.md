@@ -104,125 +104,74 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
--- Paste Question 1 here
+<img width="1144" height="582" alt="image" src="https://github.com/user-attachments/assets/d7c4630b-1f35-4fb6-ba66-6e5eab5779ae" />
 
-```sql
--- Paste your SQL code below for Question 1
-```
 
 **Output:**
-
-![Output1](output.png)
+<img width="1140" height="188" alt="image" src="https://github.com/user-attachments/assets/d99e570c-d8bf-48f8-9a8f-af6468157974" />
 
 **Question 2**
----
--- Paste Question 2 here
+<img width="1148" height="649" alt="image" src="https://github.com/user-attachments/assets/89262eea-3f73-4945-a4a6-a3079eec62f3" />
 
-```sql
--- Paste your SQL code below for Question 2
-```
 
 **Output:**
-
-![Output2](output.png)
+<img width="1137" height="356" alt="image" src="https://github.com/user-attachments/assets/051692d6-5532-4c74-a7d0-44c8a7e1e34f" />
 
 **Question 3**
----
--- Paste Question 3 here
+<img width="1153" height="606" alt="image" src="https://github.com/user-attachments/assets/a83923c4-92c1-4a28-b555-722381b1df73" />
 
-```sql
--- Paste your SQL code below for Question 3
-```
 
 **Output:**
+<img width="1141" height="403" alt="image" src="https://github.com/user-attachments/assets/fdaca61c-4143-4762-976b-140dcc73f338" />
 
-![Output3](output.png)
 
 **Question 4**
----
--- Paste Question 4 here
+<img width="1170" height="537" alt="image" src="https://github.com/user-attachments/assets/2324a700-b6be-4ce0-b9f3-6dea5d0621b8" />
 
-```sql
--- Paste your SQL code below for Question 4
-```
 
 **Output:**
-
-![Output4](output.png)
+<img width="1102" height="358" alt="image" src="https://github.com/user-attachments/assets/827ecb46-7a7a-4685-8044-dd6b982d8c42" />
 
 **Question 5**
----
--- Paste Question 5 here
+<img width="1177" height="508" alt="image" src="https://github.com/user-attachments/assets/991bd672-8495-442c-81e4-3b029a7beceb" />
 
-```sql
--- Paste your SQL code below for Question 5
-```
 
 **Output:**
-
-![Output5](output.png)
+<img width="1202" height="415" alt="image" src="https://github.com/user-attachments/assets/1274afdd-737e-4284-b00d-fb87efedbe80" />
 
 **Question 6**
----
--- Paste Question 6 here
-
-```sql
--- Paste your SQL code below for Question 6
-```
+<img width="1151" height="566" alt="image" src="https://github.com/user-attachments/assets/48d48a1b-b965-4dea-a308-e2b1bb536032" />
 
 **Output:**
+<img width="1155" height="335" alt="image" src="https://github.com/user-attachments/assets/5bb6cde4-53bb-4199-b420-c096a464e631" />
 
-![Output6](output.png)
 
 **Question 7**
----
--- Paste Question 7 here
+<img width="1139" height="762" alt="image" src="https://github.com/user-attachments/assets/9bb656b7-f2d5-45ee-b44e-709275929b48" />
 
-```sql
--- Paste your SQL code below for Question 7
-```
 
 **Output:**
+<img width="1137" height="392" alt="image" src="https://github.com/user-attachments/assets/1d2d36a7-074c-47ee-a436-b6135251e130" />
 
-![Output7](output.png)
 
 **Question 8**
----
--- Paste Question 8 here
 
-```sql
--- Paste your SQL code below for Question 8
-```
+<img width="1159" height="466" alt="image" src="https://github.com/user-attachments/assets/ba9e3446-cd8a-46f6-91f8-3950937476cc" />
 
 **Output:**
-
-![Output8](output.png)
+<img width="1218" height="323" alt="image" src="https://github.com/user-attachments/assets/0dc29115-da07-4bd6-9fb7-bc353ac2674b" />
 
 **Question 9**
----
--- Paste Question 9 here
-
-```sql
--- Paste your SQL code below for Question 9
-```
+<img width="1249" height="446" alt="image" src="https://github.com/user-attachments/assets/7e189469-ea21-467c-bc60-f09290afc12a" />
 
 **Output:**
-
-![Output9](output.png)
+<img width="1164" height="315" alt="image" src="https://github.com/user-attachments/assets/2d17d946-f255-40ba-b636-48dc67c7d6e2" />
 
 **Question 10**
----
--- Paste Question 10 here
-
-```sql
--- Paste your SQL code below for Question 10
-```
+<img width="1176" height="710" alt="image" src="https://github.com/user-attachments/assets/f6b69f98-c81a-4ff9-b8a3-6d3c07cb8bfc" />
 
 **Output:**
-
-![Output10](output.png)
-
+<img width="1186" height="455" alt="image" src="https://github.com/user-attachments/assets/b1f32354-fecd-4f16-a5c4-adb90b18d6e2" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
